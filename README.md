@@ -38,22 +38,31 @@ Plotted feature distributions and pair plots for insights
 1. Logistic Regression
    
 Precision: 0.82
+
 Recall: 0.84
+
 F1 Score: 0.83
+
 Accuracy: 81.32%
 
 2. Decision Tree
    
 Precision: 0.81
+
 Recall: 0.76
+
 F1 Score: 0.78
+
 Accuracy: 76.92%
 
 3. Random Forest
    
 Precision: 0.84
+
 Recall: 0.84
+
 F1 Score: 0.84
+
 Accuracy: 82.42%
 
 #### 📌 Best Model: 
